@@ -6,7 +6,7 @@ import os
 
 # ─── CONFIGURACIÓN ───────────────────────────────────────────────
 TELEGRAM_TOKEN = "8619230632:AAE6XjxR_i2L_gz0JWgXCaU_Jx2CuNC4qMs"
-CHAT_ID = "7076312781"
+CHAT_ID = "-1003431483057"
 INTERVALO_MINUTOS = 15
 ARCHIVO_VISTOS = "posts_vistos.json"
 
